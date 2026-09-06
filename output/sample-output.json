@@ -9,19 +9,19 @@
     "alu_official_emails": [
       "f*************@alueducation.com",
       "f******@alueducation.com",
-      "j********@alueducation.com"
+      "k********@alueducation.com"
     ],
     "alu_alumni_emails": [
-      "g*************@alumni.alueducation.com"
+      "d*************@alumni.alueducation.com"
     ],
     "alu_si_emails": [
-      "p**********@si.alueducation.com"
+      "m*************@si.alueducation.com"
     ]
   },
   "credit_cards_masked": [
     "************0004",
     "************4444",
-    "************6467",
+    "************6210",
     "***********0005"
   ],
   "urls": [
@@ -32,39 +32,28 @@
     "www.alueducation.com/help"
   ],
   "phone_numbers": [
-    "(078) 812-3456",
+    "(078) 900-1122",
     "(250) 788-999-000",
-    "+250 788 123 456",
+    "+250 788 456 789",
     "+256-701-222333",
-    "0722-334-455"
+    "0733-221-990"
   ],
   "security_flags": [
     {
       "line": 26,
-      "flags": [
-        "script_injection",
-        "sql_injection"
-      ]
+      "flags": ["script_injection", "sql_injection"]
     },
     {
       "line": 27,
-      "flags": [
-        "path_traversal",
-        "template_injection"
-      ]
+      "flags": ["path_traversal", "template_injection"]
     },
     {
       "line": 44,
-      "flags": [
-        "embedded_credentials_url"
-      ]
+      "flags": ["embedded_credentials_url"]
     },
     {
       "line": 46,
-      "flags": [
-        "script_injection",
-        "html_event_handler"
-      ]
+      "flags": ["script_injection", "html_event_handler"]
     }
   ]
 }
