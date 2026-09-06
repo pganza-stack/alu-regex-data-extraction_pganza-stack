@@ -1,0 +1,70 @@
+{
+  "emails": {
+    "general_emails": [
+      "1**********@alueducation.com.verify-now.ru",
+      "b*******@fake-alueducation.com.evil.net",
+      "g******@gmail.com",
+      "k********@yahoo.com"
+    ],
+    "alu_official_emails": [
+      "f*************@alueducation.com",
+      "f******@alueducation.com",
+      "j********@alueducation.com"
+    ],
+    "alu_alumni_emails": [
+      "g*************@alumni.alueducation.com"
+    ],
+    "alu_si_emails": [
+      "p**********@si.alueducation.com"
+    ]
+  },
+  "credit_cards_masked": [
+    "************0004",
+    "************4444",
+    "************6467",
+    "***********0005"
+  ],
+  "urls": [
+    "http://events.alueducation.com/refunds?id=4472",
+    "http://finance.alueducation.com/statements",
+    "https://meet.alueducation.com/si-room-9",
+    "https://portal.alueducation.com/login",
+    "www.alueducation.com/help"
+  ],
+  "phone_numbers": [
+    "(078) 812-3456",
+    "(250) 788-999-000",
+    "+250 788 123 456",
+    "+256-701-222333",
+    "0722-334-455"
+  ],
+  "security_flags": [
+    {
+      "line": 26,
+      "flags": [
+        "script_injection",
+        "sql_injection"
+      ]
+    },
+    {
+      "line": 27,
+      "flags": [
+        "path_traversal",
+        "template_injection"
+      ]
+    },
+    {
+      "line": 44,
+      "flags": [
+        "embedded_credentials_url"
+      ]
+    },
+    {
+      "line": 46,
+      "flags": [
+        "script_injection",
+        "html_event_handler"
+      ]
+    }
+  ]
+}
